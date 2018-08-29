@@ -1,1 +1,29 @@
-The problem statement and original data can be found in junk folder
+JARVIS
+	|
+	|___src
+	|	   |
+	|	   |___data_prep.py				---script for preprocessing the data
+	|	   |
+	|	   |___predict.py				---model building, prediction script
+	|
+	|___data
+	|	   |
+	|	   |___train.csv				---training data
+	|	   |
+	|	   |___test.csv					---test data
+	|	   |
+	|	   |___cleaned_train_data.csv	---training data after preprocessing
+	|	   |
+	|	   |___cleaned_test_data.csv	---test data after preprocessing
+	|	   |
+	|	   |___prediction.csv			---predictions for the test data
+	|
+	|
+	|___junk
+	|		|
+	|		|___JARVIS_Dataset.xlsx     ---original raw data
+	|		|
+	|		|___JARVIS_Instructions.pdf ---problem statement
+	|
+	|
+	|___README
